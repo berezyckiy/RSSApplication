@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RSSApplication</string>
+    <string name="forex_live_news">Forex Live News</string>
+    <string name="forex_analytics_news">Forex Analytics News</string>
+    <string name="title">Title: \</string>
+    <string name="date">Date: \</string>
+    <string name="close">Close</string>
+    <string name="appwidget_text">RssWidget</string>
+</resources>
